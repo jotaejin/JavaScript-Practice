@@ -32,4 +32,4 @@ oredrFood((food)=>{
   });
 });
 
-console.log("로그인 기능 생성")
+console.log("로그인 기능 생성");g
